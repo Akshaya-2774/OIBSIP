@@ -23,15 +23,13 @@ A Python-based password generator with a graphical user interface (GUI). It crea
 1. Install Python.
 2. Install the required library:
 
-```bash
 pip install pyperclip
-```
 
 3. Run the application:
 
-```bash
+
 python password_generator_gui.py
-```
+
 
 ## Project Type
 Python Internship Project – OIBSIP Task 3
